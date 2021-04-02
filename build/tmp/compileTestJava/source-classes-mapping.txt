@@ -1,0 +1,8 @@
+io/agora/test/RtmTokenBuilderTest.java
+ io.agora.test.RtmTokenBuilderTest
+io/agora/test/DynamicKey5Test.java
+ io.agora.test.DynamicKey5Test
+io/agora/test/AccessTokenTest.java
+ io.agora.test.AccessTokenTest
+io/agora/test/SignalingTokenTest.java
+ io.agora.test.SignalingTokenTest
